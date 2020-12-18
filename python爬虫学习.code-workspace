@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "Selenum"
+		},
+		{
+			"path": "requests"
+		},
+		{
+			"name": "py",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
